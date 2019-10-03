@@ -1,7 +1,3 @@
-
-
-
-
 function bulb_off(){
     document.getElementById('picture').src='pic_bulboff.gif';
 }
